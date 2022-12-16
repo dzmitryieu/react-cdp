@@ -93,7 +93,7 @@
     "stylelint-scss": "^3.5.4",
     "terser-webpack-plugin": "^1.2.3",
     "webpack-dev-middleware": "^3.6.1",
-    "webpack-hot-middleware": "^2.24.3",
+    "webpack-hot-middleware": "^2.25.3",
     "webpack-hot-server-middleware": "^0.6.0",
     "tar": ">=4.4.2",
     "@storybook/react": "^5.0.11",
