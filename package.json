@@ -96,7 +96,7 @@
     "webpack-hot-middleware": "^2.24.3",
     "webpack-hot-server-middleware": "^0.6.0",
     "tar": ">=4.4.2",
-    "@storybook/react": "^5.0.11",
+    "@storybook/react": "^6.5.14",
     "@storybook/addon-actions": "^5.0.11",
     "@storybook/addon-links": "^5.0.11",
     "@storybook/addons": "^5.0.11"
